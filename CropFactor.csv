@@ -1,0 +1,36 @@
+Crop,Initial stage,Crop dev. stage,Mid-season stage,Late season stage
+Barley,0.35,0.75,1.15,0.45
+Bean  green,0.35,0.7,1.1,0.9
+Bean  dry,0.35,0.7,1.1,0.3
+Cabbage,0.45,0.75,1.05,0.9
+Carrot,0.45,0.75,1.05,0.9
+Cotton,0.45,0.75,1.15,0.75
+Cucumber,0.45,0.7,0.9,0.75
+Eggplant,0.45,0.75,1.15,0.8
+Flax,0.45,0.75,1.15,0.75
+Grain small,0.35,0.75,1.1,0.65
+Groundnut,0.45,0.75,1.05,0.7
+Lentil,0.45,0.75,1.1,0.5
+Lettuce,0.45,0.6,1,0.9
+Maize sweet,0.4,0.8,1.15,1
+Maize  grain,0.4,0.8,1.15,0.7
+Melon,0.45,0.75,1,0.75
+Millet,0.35,0.7,1.1,0.65
+Oats,0.35,0.75,1.15,0.45
+Onion green,0.5,0.7,1,1
+Onion dry,0.5,0.75,1.05,0.85
+Peanut,0.45,0.75,1.05,0.7
+Pea  fresh,0.45,0.8,1.15,1.05
+Pepper fresh,0.35,0.7,1.05,0.9
+Potato,0.45,0.75,1.15,0.85
+Pulses,0.45,0.75,1.1,0.5
+Radish,0.45,0.6,0.9,0.9
+Sorghum,0.35,0.75,1.1,0.65
+Soybean,0.35,0.75,1.1,0.6
+Spinach,0.45,0.6,1,0.9
+Squash,0.45,0.7,0.9,0.75
+Sugarbeet,0.45,0.8,1.15,0.8
+Sunflower,0.35,0.75,1.15,0.55
+Tobacco,0.35,0.75,1.1,0.9
+Tomato,0.45,0.75,1.15,0.8
+Wheat,0.35,0.75,1.15,0.45
